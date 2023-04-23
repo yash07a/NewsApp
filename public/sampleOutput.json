@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": null,
+      "title": "Rich Strike crowned winner of 2022 Kentucky Derby - CBS News",
+      "description": "Rich Strike came back from behind to pull off a stunning win Saturday at Churchill Downs.",
+      "url": "https://www.cbsnews.com/live-updates/rich-strike-kentucky-derby-2022/",
+      "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2022/05/07/9be479d1-d9a9-4ff6-ba47-c3e048a28772/thumbnail/1200x630/96f1a2319c1529dc1b9a21136fe68921/kentucky-derby.jpg",
+      "publishedAt": "2022-05-08T03:22:00Z",
+      "content": "With favorite Epicenter and Zandon dueling in front, Rich Strike came charging up the rail for a stunning 80-1 upset in the Kentucky Derby on Saturday.\r\nJockey Sonny Leon guided Rich Strike from far … [+3259 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": null,
+      "title": "Taliban orders women to cover up head to toe in Afghanistan: \"We want our sisters to live with dignity\" - CBS News",
+      "description": "The decree calls for women to only show their eyes and recommends they wear the head-to-toe burqa.",
+      "url": "https://www.cbsnews.com/news/taliban-order-women-cover-up-afghanistan/",
+      "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2022/05/07/7a6cf9aa-0aff-4820-820f-e123d54bae66/thumbnail/1200x630/11202890bb7f7f8c05d59b774cef6cd5/ap22127433709211.jpg",
+      "publishedAt": "2022-05-07T23:30:00Z",
+      "content": "Afghanistan's Taliban rulers on Saturday ordered all Afghan women to wear head-to-toe clothing in public — a sharp, hard-line pivot that confirmed the worst fears of rights activists and was bound to… [+3551 chars]"
+    },
+    {
+      "source": { "id": null, "name": "DAWN.com" },
+      "author": null,
+      "title": "Elon Musk's $44bn Twitter buyout challenged in shareholder lawsuit - DAWN.com",
+      "description": "Checkout for the Latest and Top News from Pakistan and around the world",
+      "url": "https://www.dawn.com/",
+      "urlToImage": "http://www.dawn.com/_img/social-default.jpg",
+      "publishedAt": "2022-05-07T10:37:01Z",
+      "content": "Says he found the demand \"absolutely unacceptable\" and that's when things started going awry between his govt and the US.\r\nPublished07 May, 202210:37pm\r\nAssures will make efforts to bring the wheat p… [+1476 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "The Associated Press",
+      "title": "How major US stock indexes fared Friday - ABC News",
+      "description": "",
+      "url": "https://abcnews.go.com/Business/wireStory/major-us-stock-indexes-fared-friday-84551959",
+      "urlToImage": "null",
+      "publishedAt": "2022-05-06T21:06:15Z",
+      "content": "The stock market ended an unusually turbulent week with its fifth straight weekly decline.\r\nThe bumpy and mostly lower ride came as investors worry that the Federal Reserve may not succeed in enginee… [+998 chars]"
+    }
+  ]
+}
